@@ -8,7 +8,7 @@ Cette application interactive, construite avec **Streamlit**, exploite la puissa
 
 ## Aperçu de l'Application
 
-![Aperçu du site web](images/image_1.png)
+![Aperçu du site web](image/image_1.png)
 
 
 ## Fonctionnalités Principales 🚀
